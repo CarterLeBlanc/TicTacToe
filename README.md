@@ -17,7 +17,7 @@
   
 2. Input Information
   
-  -The keyboard is used to enter which space the user would like to mark.
+  - The keyboard is used to enter which space the user would like to mark.
   
 3. Output Information
 
