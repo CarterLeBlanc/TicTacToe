@@ -13,7 +13,7 @@
   - **Problem Statement**: Create a two player game that is comprised of a 3x3 grid where each player's actions are marked by
   either an X or an O. Once a player gets three of their marks in a row or no other moves can be made the game ends.
   
-  - **Problem Specifications**: The game must use a 2D array.
+  - **Problem Specifications**: The game must use a 2D array that is visually represented in the console, be console based, be usable by   two players, store player's moves in the array, validate each move to ensure that it is possible, and execute without crashing.
   
 2. Input Information
   
